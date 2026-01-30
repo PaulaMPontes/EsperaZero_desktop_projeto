@@ -1,0 +1,111 @@
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\projetoTela.exe.config
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\projetoTela.exe
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\projetoTela.pdb
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.csprojResolveAssemblyReference.cache
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Form1.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Properties.Resources.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.csproj.GenerateResource.Cache
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.exe
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.pdb
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Entrarf.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Fila.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Login.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Consultar.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Filau.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Form2.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Home.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Cads.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Consultas.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\MySql.Data.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\System.Buffers.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\System.Memory.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\ZstdNet.dll
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\MySql.Data.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\System.Buffers.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\System.Memory.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Triagem.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.EsqueceuSenha.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Opcoes.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_home2.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.Cads2.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_home3.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Consultas2.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Consultas3.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Médico2.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_FilaM.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_FilaP.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_ConsultarM.resources
+C:\Users\ds-mod-2\Desktop\C# LUIZ\projetoTela\projetoTela\obj\Debug\projetoTela.CadastrarPaciente2.resources
+F:\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\projetoTela.exe.config
+F:\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.exe
+F:\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.pdb
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\projetoTela.exe.config
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.exe
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.pdb
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\projetoTela.exe
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\projetoTela.pdb
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\Google.Protobuf.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\MySql.Data.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\System.Buffers.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\System.Memory.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\ZstdNet.dll
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\Google.Protobuf.pdb
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\Google.Protobuf.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\MySql.Data.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\System.Buffers.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\System.Memory.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.csprojResolveAssemblyReference.cache
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.CadastrarPaciente2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Cads.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Cads2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Consultar.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Consultas.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.EsqueceuSenha.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Fila.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Filau.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Form1.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Form2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_ConsultarM.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Consultas2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Consultas3.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_FilaM.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_FilaP.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_home2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_home3.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Médico2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Home.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Login.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Opcoes.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Properties.Resources.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Triagem.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.csproj.GenerateResource.Cache
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Medicamento.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.Cads3.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRMCadastrarP2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRMCadastrarU2.resources
+C:\Users\ds-tec-3\Desktop\C_Sharp_TCC_EsperaZero\projetoTela\projetoTela\obj\Debug\projetoTela.FRM_Medicamentos2.resources
